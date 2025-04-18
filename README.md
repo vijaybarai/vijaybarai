@@ -36,7 +36,7 @@ Designed predictive models for workforce management and sales forecasting, incre
 ---
 
 ## 🏆 Achievements
-- **90%+ process efficiency**: Through full-cycle Python automation at SmartDCC
+- **90%+ process efficiency**: Through full-cycle Python automated forecasting
 - **Forecast accuracy uplift**: Up to 20% across consulting and in-house deployments
 - **EY Analytics Bronze Badge** for building predictive model frameworks
 - **Recognition for Performance Excellence** at EY and [24]7.ai
