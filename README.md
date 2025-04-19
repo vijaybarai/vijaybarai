@@ -1,6 +1,6 @@
 # Vijay Barai  
 **AI & Forecasting Leader | Data Science Manager | Digital Transformation in Energy & Retail**  
-📍 London, United Kingdom | 📧 vjbarai06uk@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/vjbarai)
+ London, United Kingdom | vjbarai06uk@gmail.com | [LinkedIn](https://linkedin.com/in/vjbarai)
 
 ---
 
@@ -10,7 +10,7 @@ Currently working as **Forecasting Analytics Manager at SmartDCC**, a national i
 
 ---
 
-## 🌟 Core Competencies
+## Core Competencies
 - **Time-Series & Predictive Modeling**: ARIMA, ARIMAX, Prophet, Exponential Smoothing, Random Forest, XGBoost
 - **Machine Learning & Forecast Automation**: Model development, pipeline automation, AWS deployment
 - **Technical Stack**: Python, R, SQL, Power BI, Tableau, GCP, AWS (Athena, S3, Lambda, Sagemaker), Azure, Databricks
@@ -19,23 +19,23 @@ Currently working as **Forecasting Analytics Manager at SmartDCC**, a national i
 
 ---
 
-## 🧠 Selected Projects
+## Selected Projects
 
-### 🔹 SmartDCC Forecast Automation Platform
+### SmartDCC Forecast Automation Platform
 Built and deployed an end-to-end forecasting system that automated SRV and CSS demand predictions. Reduced manual processing time from 3–4 days to minutes using Python-based automation, while improving forecast accuracy by 10%. Enabled real-time decision support for mission-critical operations across the UK smart energy grid.
 
-### 🔹 AWS-Based Retail Demand Optimization
+### AWS-Based Retail Demand Optimization
 Delivered a multivariate forecasting engine for a leading fashion retailer. Integrated with AWS Sagemaker to predict product-level performance across categories, resulting in a 15% increase in forecast accuracy and streamlined inventory planning.
 
-### 🔹 FMCG Demand & Price Elasticity Modeling (EY)
+### FMCG Demand & Price Elasticity Modeling (EY)
 Developed price elasticity and forecast models rolled out across UK and EU markets. Delivered strategic insights for product cost optimization and packaging strategy, improving business margin decisions.
 
-### 🔹 Workforce Forecasting & Capacity Planning ([24]7.ai)
+### Workforce Forecasting & Capacity Planning ([24]7.ai)
 Designed predictive models for workforce management and sales forecasting, increasing forecast precision by 20%. Improved data pipeline readiness and reduced development turnaround by 30%.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - **90%+ process efficiency**: Through full-cycle Python automated forecasting
 - **Forecast accuracy uplift**: Up to 20% across consulting and in-house deployments
 - **EY Analytics Bronze Badge** for building predictive model frameworks
@@ -43,7 +43,7 @@ Designed predictive models for workforce management and sales forecasting, incre
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 - **M.Sc. in Statistics**, Sardar Patel University  
 - **B.Sc. in Statistics**, University of Mumbai
 
@@ -56,7 +56,7 @@ Designed predictive models for workforce management and sales forecasting, incre
 
 ---
 
-## 📂 Key Repositories
+## Key Repositories
 - [SmartDCC Forecasting Automation](https://github.com/vijaybarai/smartdcc-forecasting)  
 - [Retail Demand Optimization – AWS](https://github.com/vijaybarai/retail-forecast)  
 - [FMCG Forecast & Elasticity Modeling](https://github.com/vijaybarai/fmcg-demand-elasticity)  
@@ -64,7 +64,7 @@ Designed predictive models for workforce management and sales forecasting, incre
 
 ---
 
-## 📬 Contact
+## Contact
 - **Email**: vjbarai06uk@gmail.com  
 - **LinkedIn**: [linkedin.com/in/vjbarai](https://linkedin.com/in/vjbarai)  
 - **Location**: London, United Kingdom  
